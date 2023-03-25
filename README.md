@@ -1,6 +1,7 @@
 ## Token Swap Dex using 1inch
 
-https://user-images.githubusercontent.com/32630862/227738512-e5c8d58b-29d4-4681-a722-9b052bb655ba.png
+![My Remote Image](https://user-images.githubusercontent.com/32630862/227738512-e5c8d58b-29d4-4681-a722-9b052bb655ba.png)
+
 
 The project includes 2 sub-projects. The nodejs API and the Fronend.
 
